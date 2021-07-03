@@ -24,10 +24,14 @@ cantidad      #Agrega la cantidad de mensajes
   ```
 
 ## Recomendacion:
-  En las lineas de Sleep, el tiempo debe de ir de acuerdo con las caracteristicas de la velocidad de tu PC y/o Velocidad de internet.
+  En las lineas de time.sleep, el tiempo debe de ir de acuerdo con las caracteristicas de la velocidad de tu PC y/o Velocidad de internet.
   ```
   time.sleep(segundos)
   ```
-
+  
+  En linea pg.click, debemos indicar las coordenadas de la barra de mensaje para que posteriormente al ejecutar pg.press('enter') se pueda enviar el mensaje.
+  ```
+  pg.click(x, y)
+  ```
   
   
