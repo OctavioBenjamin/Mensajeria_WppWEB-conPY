@@ -1,6 +1,6 @@
 <h1> Cadenas de Mensajes en Whatsapp Web Con PY 3.9.5 </h1>
 
-Un pequeño codigo con el que puedes enviar la cantidad de veces deseada, un mensaje en Whatsapp WEB
+Un pequeño codigo con el que puedes enviar el mensaje que desees, con la cantidad de repeticiones que indiques.
 
 Ejecutacion en consola:
  ```
