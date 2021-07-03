@@ -2,15 +2,16 @@
 
 Un pequeño codigo con el que puedes enviar el mensaje que desees, con la cantidad de repeticiones que indiques.
 
-Nota: Deben de tener instalado Python 3.9 para poder ejecutar el codigo
 ## Instalacion de Python 3.9
 
 - [Descargar Python](https://www.python.org/downloads/)
 - [Tutorial](https://www.youtube.com/watch?v=BNcpRwxH8So)
 
+## Ejecutar el codigo
+```
+  python Whatsapp/whatsapp.py 
+```
 
-  python Whatsapp/whatsapp.py # Para ejecutar 
- 
 ## Variables principales: 
 
 ```
