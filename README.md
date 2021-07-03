@@ -9,7 +9,7 @@ Un pequeño codigo con el que puedes enviar el mensaje que desees, con la cantid
 
 ## Ejecutar el codigo
 ```
-  python Whatsapp/whatsapp.py 
+python Whatsapp/whatsapp.py 
 ```
 
 ## Variables principales: 
