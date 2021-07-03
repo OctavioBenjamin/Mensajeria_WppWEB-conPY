@@ -4,8 +4,8 @@ Un pequeño codigo con el que puedes enviar el mensaje que desees, con la cantid
 
 ## Instalacion de Python 3.9
 
-[Descargar Python] (https://www.python.org/downloads/)
-[Tutorial] (https://www.youtube.com/watch?v=BNcpRwxH8So)
+[Descargar Python](https://www.python.org/downloads/)
+[Tutorial](https://www.youtube.com/watch?v=BNcpRwxH8So)
 
 ## Ejecutacion en consola:
  ```
