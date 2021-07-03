@@ -17,8 +17,8 @@ parsedMessage #Agrega un mensaje. Ejemplo: "Hola, estoy usando Python"
 cantidad      #Agrega la cantidad de mensajes
 ```
 
-## Paquetes:
-    Pyautogui
+## Paquetes: 
+  Pyautogui
   ```
   py -u pip install pyautogui
   ```
