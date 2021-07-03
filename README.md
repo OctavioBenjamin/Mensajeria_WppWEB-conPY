@@ -2,6 +2,11 @@
 
 Un pequeño codigo con el que puedes enviar el mensaje que desees, con la cantidad de repeticiones que indiques.
 
+## Instalacion de Python 3.9
+
+Descargar Python ("https://www.python.org/downloads/")
+Tutorial ("https://www.youtube.com/watch?v=BNcpRwxH8So")
+
 ## Ejecutacion en consola:
  ```
   python -u "C:\Whatsapp\whatsapp.py" Para ejecutar 
