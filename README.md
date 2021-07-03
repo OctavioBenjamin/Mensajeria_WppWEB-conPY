@@ -24,7 +24,7 @@ cantidad      #Agrega la cantidad de mensajes
   ```
 
 ## Recomendacion:
-  En las lineas de Sleep, el tiempo debe de ir de acuerdo con las caracteristicas de tu pc o internet.
+  En las lineas de Sleep, el tiempo debe de ir de acuerdo con las caracteristicas de la velocidad de tu PC y/o Velocidad de internet.
   ```
   time.sleep(segundos)
   ```
