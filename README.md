@@ -23,7 +23,7 @@ cantidad      #Agrega la cantidad de mensajes
   py -u pip install pyautogui
   ```
 
-## Recomensacion:
+## Recomendacion:
   En las lineas de Sleep, el tiempo debe de ir de acuerdo con las caracteristicas de tu pc o internet.
   ```
   time.sleep(segundos)
