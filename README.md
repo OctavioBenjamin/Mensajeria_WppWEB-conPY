@@ -2,9 +2,10 @@
 
 Un pequeño codigo con el que puedes enviar la cantidad de veces deseada, un mensaje en Whatsapp WEB
 
-En consola:
+Ejecutacion en consola:
+ ```
   python -u "C:\Whatsapp\whatsapp.py" Para ejecutar 
-  
+ ```  
 Nota: Deben de tener instalado Python 3.9.5 para poder ejecutar el codigo
 
 
